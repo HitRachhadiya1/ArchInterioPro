@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "564331980771",
+    "project_id": "archinteriopro",
+    "storage_bucket": "archinteriopro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564331980771:android:ae134f43677d5c4b0822d6",
+        "android_client_info": {
+          "package_name": "com.archinteriopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564331980771-32l59p2vsej0q3opaob2npmf8g8u4h9g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuFk7aqkjtHVT8qCqh20dplJPXfxR-OeQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564331980771-32l59p2vsej0q3opaob2npmf8g8u4h9g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
